@@ -1,1 +1,1 @@
-# Wellness_Training_Package_Predictaion
+# Wellness_Tourism_Package_Predictaion
